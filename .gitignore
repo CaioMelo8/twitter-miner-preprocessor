@@ -101,5 +101,4 @@ ENV/
 .mypy_cache/
 
 # Data and results directory
-data/
-results/
+/data
